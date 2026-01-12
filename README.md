@@ -31,7 +31,7 @@
 ## 📦 Installation
 
 ```bash
-pip install codecraft
+pip install pycodecraft
 ```
 
 Or install from source:
